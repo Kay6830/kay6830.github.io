@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko"
-title                    : "파이썬 프로그래밍"
+title                    : "Kay의 코딩 로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "서광현"
-description              : "인공지능과 빅데이터를 위한 파이썬 학습하기"
+description              : "파이썬과 C언어를 학습해보자! :D"
 url                      : "https://kay6830.github.io/intro/"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Kay6830/kay6830.github.io"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
