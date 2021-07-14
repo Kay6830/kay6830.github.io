@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[ 미니 프로젝트 : Little Dune ]"
+title: "프로젝트 : Little Dune"
 ---
 
 [ 문제상황 ]
