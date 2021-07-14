@@ -27,6 +27,11 @@ title: "[ 미니 프로젝트 : Little Dune ]"
   9. 6.으로 돌아가서 작업이 끝날때까지 무한 루프한다.
 
 ⊙ 구현
+
+[ 타일들 ]
+
+![image](https://user-images.githubusercontent.com/80385994/125545133-93d744c7-6c0f-48a3-96be-73e577f5b00d.png)
+
 [ main.py ]
 
 ```python
@@ -521,10 +526,25 @@ PPP
 
 ⊙ 테스트
 
+[ 창&배경 테스트 ]
+
+![image](https://user-images.githubusercontent.com/80385994/125545488-c3f03e2d-5f56-4ecc-8c14-0b685c6be91f.png)
+
+
 ⊙ 실행결과
+
+[ 플레이어 움직이기 ]
 
 ![image](https://user-images.githubusercontent.com/80385994/125545036-fd5282de-03aa-410f-82f7-73afeab8f390.png)
 
 ![image](https://user-images.githubusercontent.com/80385994/125545054-a8f3425b-022b-4a3a-bf86-556703476b02.png)
 
 ![image](https://user-images.githubusercontent.com/80385994/125545064-099e8a7b-0aef-441a-8647-cbb200c9d97d.png)
+
+[ 바다타일과 충돌과 움직임 멈춤 ]
+
+![image](https://user-images.githubusercontent.com/80385994/125545668-35a7d955-7656-4d3b-a984-ed3e22238d18.png)
+
+![image](https://user-images.githubusercontent.com/80385994/125545640-53b4a68f-5fd0-41fb-8f73-bc94056a735b.png)
+
+![image](https://user-images.githubusercontent.com/80385994/125545653-4be9ef05-86e5-421c-a341-2b792e0ca8cf.png)
