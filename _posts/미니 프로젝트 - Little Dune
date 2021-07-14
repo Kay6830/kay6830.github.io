@@ -29,7 +29,7 @@ title: "[ 미니 프로젝트 : Little Dune ]"
 ⊙ 구현
 [ main.py ]
 
-~~~python
+```python
 import pygame
 import os
 import sys
@@ -126,11 +126,11 @@ game = Game()
 game.initialize()
 while game.running:
     game.main()
-~~~
+```
 
 [ sprite.py ]
 
-~~~python
+```python
 import pygame
 import os
 import sys
@@ -477,11 +477,11 @@ class Water00(pygame.sprite.Sprite):
         self.rect.x = self.x
         self.rect.y = self.y
       
-~~~
+```
 
 [ config.py ]
 
-~~~python
+```python
 
 SCREEN_WIDTH = 640
 SCREEN_HEIGHT = 640
@@ -499,11 +499,11 @@ Blue = (0,0,255)
 FPS = 60
 EMPTY_GREEN = (0, 255, 7)
 
-~~~
+```
 
 [ Map.csv ]
 
-~~~
+```
 
 W00,W00,W00,W00,W00,W00,W00,W00,W00,W00
 W00,G05,G00,G00,G00,G00,G00,G00,G06,W00
@@ -517,7 +517,7 @@ W00,G08,G00,G00,G00,G00,G00,G00,G07,W00
 W00,W00,W00,W00,W00,W00,W00,W00,W00,W00
 PPP
 
-~~~
+```
 
 ⊙ 테스트
 
