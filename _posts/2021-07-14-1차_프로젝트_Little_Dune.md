@@ -548,3 +548,9 @@ PPP
 ![image](https://user-images.githubusercontent.com/80385994/125545640-53b4a68f-5fd0-41fb-8f73-bc94056a735b.png)
 
 ![image](https://user-images.githubusercontent.com/80385994/125545653-4be9ef05-86e5-421c-a341-2b792e0ca8cf.png)
+
+
+⊙ 느낀점
+
+이번에 파이썬으로 게임을 만들어보며, 이론적으로 가능한 게임 구현이 생각보다 복잡하고 어려웠으며, 
+단순히 머리속으로 구상하는것 뿐만이 아니라 실질적으로 효율적으로 구현하는 능력이 상당하게 중요한 것이라는것을 확실히 꺠닫는 계기가 되었던것같습니다.
