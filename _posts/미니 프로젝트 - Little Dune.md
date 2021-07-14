@@ -522,3 +522,9 @@ PPP
 ⊙ 테스트
 
 ⊙ 실행결과
+
+![image](https://user-images.githubusercontent.com/80385994/125545036-fd5282de-03aa-410f-82f7-73afeab8f390.png)
+
+![image](https://user-images.githubusercontent.com/80385994/125545054-a8f3425b-022b-4a3a-bf86-556703476b02.png)
+
+![image](https://user-images.githubusercontent.com/80385994/125545064-099e8a7b-0aef-441a-8647-cbb200c9d97d.png)
